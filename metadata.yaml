@@ -1,5 +1,8 @@
 _repo: Hereward-the-Last-of-the-English_7815
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kingsley, Charles
@@ -16,6 +19,8 @@ description: "Hereward the Wake: Last of the English (also published as Hereward
   \ of Hereward, the last Anglo-Saxon holdout against the Normans. It was Kingsley's\
   \ last historical novel, and was instrumental in elevating Hereward into an English\
   \ folk-hero.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7815#Hereward-the-Last-of-the-English
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
