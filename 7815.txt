@@ -289,7 +289,7 @@ the fresh invasions which were perpetually threatened. Then Ethelred the
 Unready, Ethelred Evil-counsel, advised himself to fulfil his name,
 and the curse which Dunstan had pronounced against him at the baptismal
 font. By his counsel the men of Wessex rose against the unsuspecting
-Danes, and on St. Brice's eve, A. D. 1002, murdered them all with
+Danes, and on St. Brice's eve, A.D. 1002, murdered them all with
 tortures, man, woman, and child. It may be that they only did to the
 children as the fathers had done to them: but the deed was "worse than a
 crime; it was a mistake." The Danes of the Danelagh and of Northumbria,
@@ -887,7 +887,7 @@ in his hand, and looked, not at his lady's face, but at her feet, with a
 stupid and frightened expression. She knew very little of him, save
 that her husband had picked him up upon the road as a wanderer some five
 years since; and that he had been employed as a doer of odd jobs and
-runner of messages, and that was supposed, from his taciturnity and
+runner of messages, and that he was supposed, from his taciturnity and
 strangeness, to have something uncanny about him.
 
 "Martin," said the lady, "they tell me that you are a silent and a
@@ -1387,7 +1387,7 @@ But Hereward checked himself. "And you think he was in earnest?"
 
 "As sure as there are holy crows in Crowland. But it was of no use. Your
 father got a parchment, with an outlandish Norman seal hanging to it,
-and sent me off with it that same night to give to the lawman. So wolfs
+and sent me off with it that same night to give to the lawman. So wolf's
 head you are, my lord, and there is no use crying over spilt milk."
 
 "And Harold spoke for me? It will be as well to tell Abbot Leofric that,
@@ -1613,7 +1613,7 @@ Harold Hardraade in his own days, after being cast to the lion for
 carrying off a fair Greek lady, tear out the monster's tongue with his
 own hands, and show the Easterns what a Viking's son could do. And as he
 dreamed of the infinite world and its infinite wonders, the enchanters
-he might meet, the jewels he might find, the adventures be might essay,
+he might meet, the jewels he might find, the adventures he might essay,
 he held that he must succeed in all, with hope and wit and a strong arm;
 and forgot altogether that, mixed up with the cosmogony of an infinite
 flat plain called the Earth, there was joined also the belief in a flat
@@ -2569,7 +2569,7 @@ head, doing no good to his rheumatism of thirty years' standing.
 
 The old man looked up, shook his head, and answered in Cornish.
 
-"Speak to him in Latin, Martin! May be he will understand that."
+"Speak to him in Latin, Martin! Maybe he will understand that."
 
 Martin spoke. "My lord, here, wants a priest to shrive him, and that
 quickly. He is going to fight the great tyrant Ironhook, as you call
@@ -3306,7 +3306,7 @@ so had O'Brodar done already, ever since he wore beard, to every
 chieftain of his own race whom he was strong enough to ill-treat. Many
 a fair herd had he driven off, many a fair farm burnt, many a fair woman
 carried off a slave, after that inveterate fashion of lawless feuds
-which makes the history of Celtic Ireland from the earliest, times one
+which makes the history of Celtic Ireland from the earliest times one
 dull and aimless catalogue of murder and devastation, followed by famine
 and disease; and now, as he had done to others, so it was to be done to
 him.
@@ -3494,7 +3494,7 @@ St. Ethelbert's relics on board; and slew seven clergymen: but they were
 only honest canons with wives at home, and not shaveling monks, so I
 suppose that sin was easily shrived. Well, I robbed a priest of a few
 pence, and was outlawed; he plunders and burns a whole minster, and is
-made a great earl for if. One law for the weak and one for the strong,
+made a great earl for it. One law for the weak and one for the strong,
 young lads, as you will know when you are as old as I. And now I suppose
 he will plunder and burn more minsters, and then patch up a peace with
 Harold again; which I advise him strongly to do; for I warn you, young
@@ -3649,7 +3649,7 @@ me."
 
 He seized the platter with both hands; and therewith the hands both of
 the Cornishman and of the Dane. There was a struggle; but so bitter was
-the stranger's gripe, that (says the chronicler) the blood burst from
+the stranger's grip, that (says the chronicler) the blood burst from
 the nails of both his opponents.
 
 He was called a "savage," a "devil in man's shape," and other dainty
@@ -3782,7 +3782,7 @@ harper, whom if I catch, I flay alive."
 
 "You promised!" cried the Princess.
 
-"And so did you, traitress!" and he griped her arm, which was round his
+"And so did you, traitress!" and he gripped her arm, which was round his
 waist, till she screamed. "So did you promise: but not to me. And you
 shall pass your bridal night in my dog-kennel, after my dog-whip has
 taught you not to give rings again to wandering harpers."
@@ -4222,7 +4222,7 @@ light!"
 
 "A very good sermon, my Lord Abbot, to listen to next Sunday morning:
 but we are hungry and wet and desperate just now; and if you do not
-settle this matter for us, our blood will be on your head,--and may be
+settle this matter for us, our blood will be on your head,--and maybe
 your own likewise."
 
 The Abbot rode out of the water faster than he had ridden in, and a
@@ -4463,7 +4463,7 @@ burn down the gates turned their flames into the Norsemen's faces at the
 bidding of St. Bertin; and they fled from that temporal fire to descend
 into that which is eternal, while the gates of the pit were too narrow
 for the multitude of their miscreant souls. [Footnote: This gallant feat
-was performed in the A. D. 891.]
+was performed in the A.D. 891.]
 
 So the Norsemen heard, and feared; and only cast longing eyes at the
 gold and tapestries of the altars, when they went in to mass.
@@ -4558,7 +4558,7 @@ considered), Charles answered, after pouting and sulking, by making
 Baldwin _bona fide_ king of all between Somme and Scheldt, and leaving
 him to raise a royal race from Judith, the wicked and the fair.
 
-This all happened about A. D. 863. Two hundred years after, there ruled
+This all happened about A.D. 863. Two hundred years after, there ruled
 over that same land Baldwin the Debonair, as "Marquis of the Flamands."
 
 Baldwin had had his troubles. He had fought the Count of Holland. He
@@ -4740,7 +4740,7 @@ off to Hereward's tent, under the custody of Martin Lightfoot.
 with grief at the loss of his nephew, sent the due honor and service to
 his prince, besides gifts and hostages."
 
-And so ended the troubles of Baldwin, and Eustace of Guisnes
+And so ended the troubles of Baldwin, and Eustace of Guisnes.
 
 
 
@@ -5677,7 +5677,7 @@ being able to give in return."
 
 And she took out the armor, and held it up to him.
 
-"This Is the work of dwarfs or enchanters! This was not forged by mortal
+"This is the work of dwarfs or enchanters! This was not forged by mortal
 man! It must have come out of some old cavern, or dragon's hoard!" said
 Hereward, in astonishment at the extreme delicacy and slightness of
 the mail-rings, and the richness of the gold and silver with which both
@@ -6023,7 +6023,7 @@ are, and go sleep off your wine."
 
 "You are tipsy," said she, "and do not know what you say."
 
-"You are angry, and do not know what you say. Hearken proud lass. I will
+"You are angry, and do not know what you say. Hearken, proud lass. I will
 take care of one thing, and that is, that you shall speak the truth."
 
 "Did I not say that you were tipsy?"
@@ -8661,7 +8661,7 @@ gate, go to a certain place.
 
 "Little Winter, little Winter, my chuck, my darling, my mad fellow,
 my brother-in-arms, my brother in robbery and murder, are you grown so
-honest in your old age that you will not know Hereward the wolfs-head?"
+honest in your old age that you will not know Hereward the wolf's-head?"
 
 "Hereward!" shrieked the doughty little man. "I took you for an accursed
 Norman in those outlandish clothes;" and lifting up no little voice, he
@@ -9001,7 +9001,7 @@ new tyrants. The night was dark: but not so dark but that Hereward could
 see between him and the sky his brother's long locks floating in the
 breeze.
 
-"That I must have down, at least," said he, in a low voice.
+"That I must have done, at least," said he, in a low voice.
 
 "Then here is wherewithal," said Martin Lightfoot, as he stumbled over
 something. "The drunken villains have left the ladder in the yard."
@@ -9372,7 +9372,7 @@ leaden roofs; and above all the great wooden tower, from which, on high
 days, chimed out the melody of the seven famous bells, which had not
 their like in English land. Guthlac, Bartholomew, and Bettelm were the
 names of the biggest, Turketul and Tatwin of the middle, and Pega and
-Bega of the smallest. So says Ingulf, who saw them a few years after
+Bega of the smallest. So says Ingulf, who saw them a few years after,
 pouring down on his own head in streams of melted metal. Outside the
 minster walls were the cottages of the corodiers, or laboring folk; and
 beyond them again the natural park of grass, dotted with mighty oaks
@@ -10573,7 +10573,7 @@ But of those tactics the English knew nothing. Their armies were little
 more than tumultuous levies, in which men marched and fought under local
 leaders, often divided by local jealousies. The commissariats of the
 armies seem to have been so worthless, that they had to plunder friends
-as well, as foes as they went along; and with plunder came every sort
+as well as foes as they went along; and with plunder came every sort
 of excess: as when the northern men marching down to meet Harold
 Godwinsson, and demand young Edwin as their earl, laid waste, seemingly
 out of mere brute wantonness, the country round Northampton, which must
@@ -10887,7 +10887,7 @@ William, that he could even manage Gospatrick and his intrigues Hereward
 expected as little as that his own nephews Edwin and Morcar could do it.
 
 "I have to thank you, noble sir," said Waltheof, languidly, "for sending
-your knights to our rescue when we were really hard bestead,--I fear
+your knights to our rescue when we were really hard bested,--I fear
 much by our own fault. Had they told me whose men they were, I should
 not have spoken to you so roughly as I fear I did."
 
@@ -12380,7 +12380,7 @@ demand me back in his son's name."
 "What does Dolfin want with you?"
 
 "His father wants my money, and stipulated for it with the king. And
-beside, I suppose I am a pretty plaything enough still."
+besides, I suppose I am a pretty plaything enough still."
 
 "You? You are divine, perfect. Dolfin is right. How could a man who had
 once enjoyed you live without you?"
@@ -14354,7 +14354,7 @@ do what was best for the abbey, and also what the monks would let him
 do. For severe as was the discipline of a minster in time of peace, yet
 in time of war, when life and death were in question, monks had ere now
 turned valiant from very fear, like Cato's mouse, and mutinied: and so
-might the monks of Ely,
+might the monks of Ely.
 
 And Edwin and Morcar?
 
@@ -17121,7 +17121,7 @@ country?
 So he rode down to the river, and there took two great barges, and rowed
 away to Crowland, with forty men-at-arms.
 
-And all the while he thought of Alftruda, as he hai seen her at
+And all the while he thought of Alftruda, as he had seen her at
 Peterborough.
 
 And of no one else?
@@ -17831,7 +17831,7 @@ compassed to be null and void; and prayed to be released therefrom, as a
 burden to her conscience and soul, that she might spend the rest of her
 life in penitence for her many enormous sins. She submitted herself to
 the judgment of Holy Church, only begging that this her free confession
-might be counted in her favor and that she might hot be put to death,
+might be counted in her favor and that she might not be put to death,
 as she deserved, nor sent into perpetual imprisonment; because her
 mother-in-law according to the flesh, the Countess Godiva, being old and
 infirm, had daily need of her; and she wished to serve her menially
@@ -18159,7 +18159,7 @@ think of good and noble things; he dared not think of them. He felt, not
 at first, but as the months rolled on, that he was a changed man; that
 God had left him. His old bad habits began to return to him. Gradually
 he sank back into the very vices from which Torfrida had raised him
-sixteen years before, He took to drinking again, to dull the malady of
+sixteen years before. He took to drinking again, to dull the malady of
 thought; he excused himself to himself; he wished to forget his defeats,
 his disappointment, the ruin of his country, the splendid past which lay
 behind him like a dream. True: but he wished to forget likewise Torfrida
@@ -18696,7 +18696,7 @@ venerable prelate commit," said Thorold.
 "That these Normans at Winchester were so in the traitor's favor, that
 the king had to have him out and cut off his head in the gray of the
 morning, ere folks were up and about; that the fellow was so holy that
-he past all his time in prison in weeping and praying, and said over the
+he passed all his time in prison in weeping and praying, and said over the
 whole Psalter every day, because his mother had taught it him,--I wish
 she had taught him to be an honest man;--and that when his head was
 on the block he said all the Paternoster, as far as 'Lead us not into
@@ -19232,7 +19232,7 @@ slowly rowed away.
 So Torfrida took the corpse home to Crowland, and buried it in the
 choir, near the blessed martyr St. Waltheof; after which she did not
 die, but lived on many years, [Footnote: If Ingulf can be trusted,
-Torfrida died about A. D. 1085.] spending all day in nursing and feeding
+Torfrida died about A.D. 1085.] spending all day in nursing and feeding
 the Countess Godiva, and lying all night on Hereward's tomb, and praying
 that he might find grace and mercy in that day.
 
@@ -19267,7 +19267,7 @@ thought that the foul fiend was broken loose on earth. And they
 whispered oftener and oftener that the soul of Hereward haunted the
 Bruneswald, where he loved to hunt the dun deer and the roe. And in the
 Bruneswald, when Henry of Poitou was made abbot, [Footnote: Anglo-Saxon
-Chronicle, A. D. 1127.] men saw--let no man think lightly of the
+Chronicle, A.D. 1127.] men saw--let no man think lightly of the
 marvel which we are about to relate, for it was well known all over the
 country--upon the Sunday, when men sing, "Exsurge quare, O Domine," many
 hunters hunting, black, and tall, and loathly, and their hounds were
@@ -19285,7 +19285,7 @@ Englishmen to rise against the French; and therefore it was that he was
 seen first on "Arise, O Lord" Sunday.
 
 But they were so sore trodden down that they could never rise; for the
-French [Footnote: Anglo-Saxon Chronicle, A. D. 1137.] had filled the
+French [Footnote: Anglo-Saxon Chronicle, A.D. 1137.] had filled the
 land full of castles. They greatly oppressed the wretched people by
 making them work at these castles; and when the castles were finished,
 they filled them with devils and evil men. They took those whom they
@@ -19359,7 +19359,7 @@ CHAPTER XLIII.
 HOW DEEPING FEN WAS DRAINED.
 
 
-Ill war and disorder, ruin and death, cannot last forever. They are by
+But war and disorder, ruin and death, cannot last forever. They are by
 their own nature exceptional and suicidal, and spend themselves with
 what they feed on. And then the true laws of God's universe, peace and
 order, usefulness and life, will reassert themselves, as they have been
